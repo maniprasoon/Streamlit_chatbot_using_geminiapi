@@ -32,7 +32,7 @@ MANIBOT is a sleek, real-time conversational AI web app powered by **Google Gemi
 </p>
 
 <p align="center">
-  <b>MANIBOT</b> — ChatGPT-style conversational AI built with Streamlit & Google Gemini
+  <b>MANIBOT</b> — Chatbot-style conversational AI built with Streamlit & Google Gemini
 </p>
 
 
